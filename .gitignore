@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Dados locais do jogo
+recorde.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
